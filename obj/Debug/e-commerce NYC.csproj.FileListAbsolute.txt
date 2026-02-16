@@ -1,0 +1,14 @@
+D:\colegiu\anul3\c#\e-commerce NYC\bin\Debug\e-commerce NYC.exe.config
+D:\colegiu\anul3\c#\e-commerce NYC\bin\Debug\e-commerce NYC.exe
+D:\colegiu\anul3\c#\e-commerce NYC\bin\Debug\e-commerce NYC.pdb
+D:\colegiu\anul3\c#\e-commerce NYC\obj\Debug\e-commerce NYC.csproj.AssemblyReference.cache
+D:\colegiu\anul3\c#\e-commerce NYC\obj\Debug\e_commerce_NYC.Login.resources
+D:\colegiu\anul3\c#\e-commerce NYC\obj\Debug\e_commerce_NYC.Properties.Resources.resources
+D:\colegiu\anul3\c#\e-commerce NYC\obj\Debug\e-commerce NYC.csproj.GenerateResource.cache
+D:\colegiu\anul3\c#\e-commerce NYC\obj\Debug\e-commerce NYC.csproj.CoreCompileInputs.cache
+D:\colegiu\anul3\c#\e-commerce NYC\obj\Debug\e-commerce NYC.exe
+D:\colegiu\anul3\c#\e-commerce NYC\obj\Debug\e-commerce NYC.pdb
+D:\colegiu\anul3\c#\e-commerce NYC\obj\Debug\e-commerce NYC.exe.config
+D:\colegiu\anul3\c#\e-commerce NYC\obj\Debug\e_commerce_NYC.loginlabels.resources
+D:\colegiu\anul3\c#\e-commerce NYC\obj\Debug\e_commerce_NYC.Models.Component_label.resources
+D:\colegiu\anul3\c#\e-commerce NYC\obj\Debug\e_commerce_NYC.UserControl1.resources
