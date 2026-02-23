@@ -72,5 +72,19 @@ namespace e_commerce_NYC
         {
 
         }
+
+        private void userControl11_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void userControl11_Click(object sender, EventArgs e)
+        {
+          
+            Form1 dashboard = new Form1();
+            dashboard.Show();
+            this.FindForm().Hide(); // or this.Close() if you want to close the login form
+
+        }
     }
 }
