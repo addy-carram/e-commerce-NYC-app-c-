@@ -20,6 +20,7 @@ namespace e_commerce_NYC
         public Login()
         {
             InitializeComponent();
+
             
         }
 
@@ -55,7 +56,9 @@ namespace e_commerce_NYC
 
         private void Login_Load(object sender, EventArgs e)
         {
-
+           
+            
+        
         }
 
         private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)

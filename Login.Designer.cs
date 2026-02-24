@@ -93,9 +93,9 @@
             this.flowLayoutPanel1.Controls.Add(this.tableLayoutPanel1);
             this.flowLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Right;
             this.flowLayoutPanel1.FlowDirection = System.Windows.Forms.FlowDirection.RightToLeft;
-            this.flowLayoutPanel1.Location = new System.Drawing.Point(1131, 0);
+            this.flowLayoutPanel1.Location = new System.Drawing.Point(1249, 0);
             this.flowLayoutPanel1.Name = "flowLayoutPanel1";
-            this.flowLayoutPanel1.Size = new System.Drawing.Size(720, 902);
+            this.flowLayoutPanel1.Size = new System.Drawing.Size(720, 887);
             this.flowLayoutPanel1.TabIndex = 0;
             // 
             // tableLayoutPanel1
@@ -462,10 +462,9 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(29F, 58F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.AutoScroll = true;
             this.AutoSize = true;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(1444, 791);
+            this.ClientSize = new System.Drawing.Size(1969, 887);
             this.Controls.Add(this.userControl11);
             this.Controls.Add(this.remember);
             this.Controls.Add(this.flowLayoutPanel2);
